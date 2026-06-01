@@ -27,7 +27,7 @@ PORTFOLIO = {
             "title": "Smart FYP",
             "description": "A centralized web application to monitor and track college final year project reviews for students and guides.",
             "tech": ["Python", "Flask", "SQL"],
-           
+            "github": "https://github.com/pathumanithi22/Smart-FYP/tree/main/fyp",
         },
         {
             "title": "Ecommerce Data Analysis",
